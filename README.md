@@ -237,37 +237,37 @@ Least privilege principle confirmed working
 ## 📸 Screenshots
 
 ### 1. OU Structure — Nexora Technologies Domain
-![OU Structure](screenshots/OUs_created.png)
+![OU Structure](screenshots/OUs created.png)
 
 ### 2. Users Added to Organisational Units
-![Users in OUs](screenshots/Users_added_to_OUs.png)
+![Users in OUs](screenshots/Users added to OUs.png)
 
 ### 3. Security Group Members
-![Security Groups](screenshots/members_added_to_GPO.png)
+![Security Groups](screenshots/members added to GPO.png)
 
 ### 4. User Created with Corporate Email
-![User with Email](screenshots/user_with_nexoratech_com.png)
+![User with Email](screenshots/user with nexoratech com.png)
 
 ### 5. Domain Join — Welcome Message
-![Domain Join](screenshots/Domian_Joined.png)
+![Domain Join](screenshots/Domian Joined.png)
 
 ### 6. Client Machine — Domain Verified
-![Client Logged In](screenshots/client-user_logged_in.png)
+![Client Logged In](screenshots/client user logged in.png)
 
 ### 7. GPO 1 — Linked and Enabled
-![GPO Verified](screenshots/GP01_verify.png)
+![GPO Verified](screenshots/GP01 verify.png)
 
 ### 8. GPO 2 — Control Panel Blocked
 ![Control Panel Blocked](screenshots/GP02-working.png)
 
 ### 9. GPO 3 — Password Policy Settings
-![Password Policy](screenshots/Password_policy_enabled.png)
+![Password Policy](screenshots/Password policy enabled.png)
 
 ### 10. GPO 3 — Password Policy Enforced
-![Password Rejected](screenshots/Password_change_working.png)
+![Password Rejected](screenshots/Password change working.png)
 
 ### 11. GPO 4 — Screen Lock Configured
-![Screen Lock](screenshots/lockscreen_enabled.png)
+![Screen Lock](screenshots/lockscreen enabled.png)
 
 ---
 
